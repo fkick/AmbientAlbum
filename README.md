@@ -51,4 +51,7 @@ Ambient Album asks for permission only when a feature needs it:
 If photo access is limited, Ambient Album displays only the photos you have allowed.
 
 ## User Manual
+- [Home](Home.md)
+- [Quick Start](Quick-Start.md)
+- [Troubleshooting](Troubleshooting.md)
 
