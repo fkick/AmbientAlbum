@@ -55,3 +55,5 @@ If photo access is limited, Ambient Album displays only the photos you have allo
 - [Quick Start](Quick-Start.md)
 - [Troubleshooting](Troubleshooting.md)
 
+## App Store
+App Store: https://apps.apple.com/us/app/ambient-album/id6778562156
